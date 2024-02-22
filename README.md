@@ -1,2 +1,2 @@
 # malloc-lab
-mallo-lab
+malloc-lab
